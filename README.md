@@ -8,11 +8,16 @@ This document contains general information and instructions about the required f
 
 - 1_preprocessing.ipynb
 - 2_models.ipynb
-- model_results.ipynb
+- model_results.xlsx
+
+Content also available via:
+https://pittens.eu/thesis/1_preprocessing.html
+https://pittens.eu/thesis/2_models.html
+http://pittens.eu/thesis/model_results.xlsx
 
 ### Running the .IPYNB files
 
-An IPYNB file is a notebook document used by Jupyter Notebook. To run the code in these documents, the file must be loaded into a Jupyter Notebook environment. Because some calculations require a GPU, it is advisable to use the free and online Google Colab environment (https://colab.research.google.com/). 
+An IPYNB file is a notebook document. To run the code in these documents, the file must be loaded into a Jupyter Notebook environment. Because some calculations require a GPU, it is advisable to use the free and online Google Colab environment (https://colab.research.google.com/). 
 
 ### Data
 
