@@ -25,4 +25,4 @@ The CoST data is automatically imported into the IPYNB 1_preprocessing file via 
 
 ### Installation
 
-All required installations are done in the IPYNB file.
+No further installations are required than those in the IPYNB file.
