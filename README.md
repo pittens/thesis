@@ -11,9 +11,9 @@ This document contains general information and instructions about the required f
 - model_results.xlsx
 
 Content also available via:
-https://pittens.eu/thesis/1_preprocessing.html
-https://pittens.eu/thesis/2_models.html
-http://pittens.eu/thesis/model_results.xlsx
+- https://pittens.eu/thesis/1_preprocessing.html
+- https://pittens.eu/thesis/2_models.html
+- http://pittens.eu/thesis/model_results.xlsx
 
 ### Running the .IPYNB files
 
